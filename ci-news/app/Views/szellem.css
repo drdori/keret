@@ -1,0 +1,16 @@
+body{
+    background-color: grey;
+}
+p{
+    color: white;
+    text-align: justify;
+    font-size: larger;
+}
+h1{
+    font-size: xx-large;
+    text-decoration: underline;
+}
+h2{
+    font-size: xx-large;
+    text-decoration: underline;
+}
